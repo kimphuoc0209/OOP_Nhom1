@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/kimphuoc0209/E-commerce-Frontend.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/kimphuoc0209/E-commerce-Dashboard.git
