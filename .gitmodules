@@ -4,3 +4,6 @@
 [submodule "dashboard"]
 	path = dashboard
 	url = https://github.com/kimphuoc0209/E-commerce-Dashboard.git
+[submodule "Server"]
+	path = Server
+	url = https://github.com/kimphuoc0209/E-commerce-Server.git
