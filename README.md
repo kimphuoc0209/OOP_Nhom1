@@ -12,8 +12,8 @@ If you get an error, you can run `npm install --save --force`
 
 ## 3. Start
 
-In each project directory (dashboard, frontend & Server folder), you can run `npm start`
+In each dashboard, frontend folder, you can run `npm start`. In Server folder, you can run `npm run server`
 
 ## 4. Update Modules
 
-If you want to update the latest status of the modules, you can run `cd OOP_Nhom1` then `git submodule foreach git pull oringin master`
+If you want to update the latest status of the modules, you can run `cd OOP_Nhom1` then `git submodule foreach git pull origin master`
