@@ -16,4 +16,4 @@ In each project directory (dashboard, frontend & Server folder), you can run `np
 
 ## 4. Update Modules
 
-If you want to update the latest status of the modules, you can run `git submodule foreach git pull oringin master`
+If you want to update the latest status of the modules, you can run `cd OOP_Nhom1` then `git submodule foreach git pull oringin master`
